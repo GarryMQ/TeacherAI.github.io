@@ -4,7 +4,8 @@ www.youtube.com/watch?v=RdZqWiYCQsg
 ## Projects
 ### Project 1
 - Description
-- [upwork](https://store.training.tafensw.edu.au/product/introduction-to-artificial-intelligence/)
+- [link to external site](https://store.training.tafensw.edu.au/product/introduction-to-artificial-intelligence/)
+- [Introduction to Artificial Intelligence](https://store.training.tafensw.edu.au/product/introduction-to-artificial-intelligence/)
 
 ### Project 2
 - Description
