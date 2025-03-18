@@ -1,5 +1,5 @@
 # TeacherAI.github.io
-www.youtube.com/watch?v=RdZqWiYCQsg
+This is the youtube clip that this page was developed from (www.youtube.com/watch?v=RdZqWiYCQsg)
 
 ## Projects
 ### Project 1
